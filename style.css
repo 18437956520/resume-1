@@ -94,7 +94,7 @@ hr {
 
 .banner {
     height: 515px;
-    background-image: url(./img/city.jpg);
+    background-image: url(https://raw.githubusercontent.com/18437956520/resume-1/master/city.jpg);
     background-position: center center;
     background-size: cover;
 }
